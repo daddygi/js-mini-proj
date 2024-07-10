@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+<title>Ear Candy</title>
+<address>6353 Juan Tabo Boulevard, Apartment #6</address>
+<website>ph.eventlive.com</website>
+<featured_bands>
+    <band>
+        <name>Peach Pit</name>
+        <schedule>
+            <date>June 6, 2023</date>
+            <time>6:00 pm - 8:00 pm</time>
+        </schedule>
+        <price>200.00</price>
+    </band>
+    <band>
+        <name>Mom Jeans</name>
+        <schedule>
+            <date>June 6, 2023</date>
+            <time>8:00 pm - 10:00 pm</time>
+        </schedule>
+        <price>150.00</price>
+    </band>
+    <band>
+        <name>Michael Cera Palin</name>
+        <schedule>
+            <date>June 7, 2023</date>
+            <time>6:00 pm - 8:00 pm</time>
+        </schedule>
+        <price>100.00</price>
+    </band>
+    <band>
+        <name>Save Face</name>
+        <schedule>
+            <date>June 7, 2023</date>
+            <time>8:00 pm - 10:00 pm</time>
+        </schedule>
+        <price>150.00</price>
+    </band>
+    <band>
+        <name>PUP</name>
+        <schedule>
+            <date>June 7, 2023</date>
+            <time>10:00 PM - 12:00 AM</time>
+        </schedule>
+        <price>300.00</price>
+    </band>
+</featured_bands>
+</event>
